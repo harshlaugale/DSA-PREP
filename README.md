@@ -4,7 +4,7 @@ Welcome to the DSA Prep repository! This repository is designed to help you stre
 
 ## What You'll Find
 
-1. **Code Snippets:** Explore implementations of various data structures and algorithms in different programming languages such as C++, Python, Java, and more.
+1. **Code Snippets:** Explore implementations of various data structures and algorithms in C++ programming language.
 
 2. **Exercises:** Test your knowledge with a wide range of coding exercises covering topics like arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, searching algorithms, dynamic programming, and more.
 
